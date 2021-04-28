@@ -1,6 +1,6 @@
 # Photo Gallery App
 
-A decent website of viewing photos built with html, css
+A decent website of viewing photos built with html, css made with love
 
 ## Usage
 
